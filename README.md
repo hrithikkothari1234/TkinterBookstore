@@ -30,14 +30,14 @@ OR
 
 Clone the Project And
 ```
-pip install tkinter
-pip install sqlite3
-python front.py
+$ pip install tkinter
+$ pip install sqlite3
+$ python front.py
 ```
 ## To create an executable file
 ```
-pip install pyinstaller
-pyinstaller --onefile --windowed front.py
+$ pip install pyinstaller
+$ pyinstaller --onefile --windowed front.py
 ```
 
 ## Example Image:
