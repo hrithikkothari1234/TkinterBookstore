@@ -1,0 +1,7 @@
+dist/
+books.db
+front.spec
+build/
+__pycache__/
+__pycache
+build
