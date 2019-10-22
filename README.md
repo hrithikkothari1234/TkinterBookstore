@@ -2,12 +2,14 @@
 Store Book Information
 
 ## Features
+
+### All The Information is stored permanently in the Database.
+
 ### Add Info Like:
 * Title
 * Author
 * Year
 * ISBN <br/>
-All The Information is stored permanently in the Database.
 
 ### User Can
 * Add Books
