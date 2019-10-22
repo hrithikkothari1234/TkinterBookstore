@@ -1,20 +1,27 @@
-## Bookstore
+# Bookstore
 Store Book Information
 
-## Features
-# Add Info Like:
+# Features
+## Add Info Like:
 * Title
 * Author
 * Year
 * ISBN
 All The Information is stored permanently in the Database.
 
-# Made Using
+## User Can
+* Add Books
+* Update Books
+* Delete Books
+* Search Specific Books
+* View All Books
+
+## Made Using
 * Python
 * Tkinter
 * SQLite Database
 
-## Setup
+# Setup
 To run this code either download the executable file
 
 OR
